@@ -1,0 +1,26 @@
+p.title {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    border-bottom: 2px solid #CDCDCD;
+    padding-bottom: 20px;
+    width: 24.3%;
+}
+
+div {
+    float: left;
+    margin: 1.66%;
+    width: 30%;
+    height: auto;
+}
+
+img {
+    width: 100%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+p.caption {
+    text-align: justify;
+}
